@@ -2,7 +2,8 @@
 <p align="center">This is the mobile part made during #NLWReturn.</p>
 
 ## ⛏️ RoadMap
-Building...
+- [ ] Tema Light/Dark
+- [ ] Listagem dos próprios feedbacks
 
 ## 🖥 Setup
 - Clone the repository

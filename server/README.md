@@ -2,7 +2,11 @@
 <p align="center">This is the api part made during #NLWReturn.</p>
 
 ## ⛏️ RoadMap
-Building...
+- [ ] Melhorar o HTML/CSS do E-mail
+- [ ] Listagem de feedbacks
+- [ ] Respostas à um feedback (e-mail)
+- [ ] Rotas de adm e usuário
+- [ ] Validação de erros
 
 ## 🖥 Setup
 - Clone the repository
