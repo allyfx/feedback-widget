@@ -2,12 +2,12 @@
 <p align="center">This is the api part made during #NLWReturn.</p>
 
 ## ⛏️ RoadMap
-- [ ] Users Model with CRUD
-- [ ] Authentication with JWT token
-- [ ] List all feedbacks
-- [ ] Mark feedback as solved
-- [ ] Send e-mail to user
-- [ ] Error validation
+- [x] Users Model with CRUD
+- [x] Authentication with JWT token
+- [x] List all feedbacks
+- [x] Mark feedback as solved
+- [x] Send e-mail to user
+- [x] Error validation
 
 ## 🖥 Setup
 - Clone the repository

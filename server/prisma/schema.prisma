@@ -17,5 +17,17 @@ model Feedback {
   comment    String
   screenshot String?
 
+  checked   Boolean @default(false)
+  userEmail String?
+
   @@map("feedbacks")
+}
+
+model User {
+  id String @id @default(uuid())
+
+  email    String
+  password String
+
+  @@map("users")
 }

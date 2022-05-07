@@ -5,6 +5,7 @@ interface SubmitFeedbackUseCaseRequest {
   type: string;
   comment: string;
   screenshot?: string;
+  userEmail?: string;
 }
 
 export class SubmitFeedbackUseCase {
@@ -14,12 +15,13 @@ export class SubmitFeedbackUseCase {
   ) {}
 
   async execute(request: SubmitFeedbackUseCaseRequest) {
-    const { type, comment, screenshot } = request;
+    const { type, comment, screenshot, userEmail } = request;
 
     await this.feedbacksRepository.create({
       type,
       comment,
       screenshot,
+      userEmail,
     });
 
     await this.mailAdapter.sendMail({
