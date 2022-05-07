@@ -6,3 +6,11 @@ Allows users to give feedbacks about whatever they want, if it's a bug, complime
 
 ## 🚧 Projects
 ! Each folder represents a project made during the lessons and has it's own `README.md` file to help run the project along with details about it.
+
+## ⛏️ RoadMap
+- [ ] Light/Dark Theme
+- [ ] Admin Version
+  - [ ] Login System
+  - [ ] Admin Page
+  - [ ] Mark as solved or contact user
+- [ ] Error validation

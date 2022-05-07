@@ -2,11 +2,12 @@
 <p align="center">This is the api part made during #NLWReturn.</p>
 
 ## ⛏️ RoadMap
-- [ ] Melhorar o HTML/CSS do E-mail
-- [ ] Listagem de feedbacks
-- [ ] Respostas à um feedback (e-mail)
-- [ ] Rotas de adm e usuário
-- [ ] Validação de erros
+- [ ] Users Model with CRUD
+- [ ] Authentication with JWT token
+- [ ] List all feedbacks
+- [ ] Mark feedback as solved
+- [ ] Send e-mail to user
+- [ ] Error validation
 
 ## 🖥 Setup
 - Clone the repository

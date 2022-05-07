@@ -2,8 +2,12 @@
 <p align="center">This is the mobile part made during #NLWReturn.</p>
 
 ## ⛏️ RoadMap
-- [ ] Tema Light/Dark
-- [ ] Listagem dos próprios feedbacks
+- [ ] Light/Dark Theme
+- [ ] Alert with error validation
+- [ ] Login page
+- [ ] Admin Page
+  - [ ] List all feedbacks
+  - [ ] Mark as solved or contact user
 
 ## 🖥 Setup
 - Clone the repository

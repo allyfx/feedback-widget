@@ -2,12 +2,12 @@
 <p align="center">This is the web part made during #NLWReturn.</p>
 
 ## ⛏️ RoadMap
-- [ ] Tema Light/Dark
-- [ ] Visualização administrador
-  - [ ] Listagem de feedbacks
-  - [ ] Responder à um feedback (e-mail)
-- [ ] Validação de erros
-  - [ ] Mostrar toast quando der um erro
+- [ ] Light/Dark Theme
+- [ ] Login Page
+- [ ] Admin Page
+  - [ ] List all feedbacks
+  - [ ] Mark as solved or contact user
+- [ ] Toast for error validations
 
 ## 🖥 Setup
 - Clone the repository
